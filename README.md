@@ -1,2 +1,2 @@
 # multicontainer_dockercompose
-Spring boot multicontainer with docker compose application
+This is simple spring boot application having multiple container in docker compose.
